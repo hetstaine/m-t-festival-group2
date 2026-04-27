@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-i18n="home.title">Out of Time Music Festival</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <header class="navbar">
+    <div class="logo">
+      <img src="assets/images/logo.png" alt="GrooveFest Logo" data-i18n-img="logo">
+    </div>
+    <nav>
+      <ul>
+        <li><a href="index.html" data-i18n="nav.home">Home</a></li>
+        <li><a href="bands.html" data-i18n="nav.lineup">Lineup</a></li>
+        <li><a href="about.html" data-i18n="nav.about">About</a></li>
+        <li><a href="genres.html" data-i18n="nav.genres">Genres</a></li>
+        <li><a href="contact.html" data-i18n="nav.contact">Contact</a></li>
+      </ul>
+    </nav>
+    <select id="langSwitcher">
+      <option value="en">EN</option>
+      <option value="uk">UK</option>
+    </select>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="image-tooltip-container">
+      <img id="hero-img" src="" alt="" data-i18n-img="hero.img">
+      <span class="tooltip-text" data-i18n="hero.tooltip"></span>
+    </div>
+    <div class="hero-text">
+      <h1 data-i18n="hero.title">Out of Time Festival</h1>
+      <p data-i18n="hero.description">Where every beat stands still and the music never ends</p>
+      <a href="bands.html#neon-beats" class="cta-btn" data-i18n="hero.cta">See the Lineup</a>
+    </div>
+  </section>
+
+  <!-- FEATURED BAND -->
+  <section class="featured container">
+    <h2 data-i18n="home.featured">Featured Band</h2>
+    <div class="product-grid">
+
+      <div class="product-card" id="neon-beats">
+        <img src="" alt="" data-i18n-img="band1.img">
+        <h3 data-i18n="band1.name">The Neon Beats</h3>
+        <p data-i18n="band1.desc">Formed in 2015, The Neon Beats electrified the underground scene with pulsating synth-rock. Known for their immersive live shows.</p>
+        <p><strong data-i18n="bands.popularSongs">Popular Songs:</strong></p>
+        <ul>
+          <li data-i18n="band1.song1">City Lights</li>
+          <li data-i18n="band1.song2">Electric Pulse</li>
+          <li data-i18n="band1.song3">Midnight Groove</li>
+        </ul>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Newsletter -->
+<section class="newsletter">
+  <h2 data-i18n="newsletter.title">Stay in the Loop</h2>
+  <p data-i18n="newsletter.subtitle">Get exclusive access — before the clock runs out on the music!</p>
+  <form>
+    <input type="email" placeholder="Email address" data-i18n-placeholder="contact.email">
+    <button type="submit" data-i18n="newsletter.cta">Subscribe</button>
+  </form>
+</section>
+
+  <script src="app.js"></script>
+</body>
+</html>

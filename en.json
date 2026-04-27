@@ -1,0 +1,87 @@
+{
+  "home.title": "Out of Time Festival",
+
+  "nav.home": "Home",
+  "nav.lineup": "Lineup",
+  "nav.genres": "Genres",
+  "nav.about": "About",
+  "nav.contact": "Contact",
+
+  "hero.title": "Out of Time Festival",
+  "hero.description": "Where every beat stands still and the music never ends",
+  "hero.cta": "See the Lineup",
+  "hero.img": "assets/images/en/hero.jpg",
+
+  "home.featured": "Featured Band",
+
+  "newsletter.title": "Stay in the Loop",
+  "newsletter.subtitle": "Get exclusive access — before the clock runs out on the music!",
+  "newsletter.cta": "Subscribe",
+
+  "bands.popularSongs": "Popular Songs",
+  "bands.allTitle": "All Festival Bands",
+  
+  "band1.name": "The Neon Beats",
+  "band1.desc": "Formed in 2015, The Neon Beats electrified the underground scene with pulsating synth-rock and breathtaking live energy.",
+  "band1.img": "assets/images/en/music_band1.jpg",
+  "band1.song1": "City Lights",
+  "band1.song2": "Electric Pulse",
+  "band1.song3": "Midnight Groove",
+
+  "band2.name": "Blue Harmony",
+  "band2.desc": "Blue Harmony emerged in 2010, blending soulful pop and smooth jazz into irresistible festival anthems.",
+  "band2.img": "assets/images/en/music_band2.jpg",
+  "band2.song1": "Ocean Breeze",
+  "band2.song2": "Skyline Dreams",
+  "band2.song3": "Moonlit Melody",
+
+  "band3.name": "Golden Echo",
+  "band3.desc": "Golden Echo, established in 2005, keeps classic vibes alive with modern flair and timeless crowd‑pleasers.",
+  "band3.img": "assets/images/en/music_band3.jpg",
+  "band3.song1": "Timeless Tune",
+  "band3.song2": "Retro Vibes",
+  "band3.song3": "Golden Days",
+
+  "genres.title": "Genres - Out of Time",
+  "genres.titleSection": "Music Genres at Out of Time",
+
+  "genre1.name": "Rock",
+  "genre1.desc": "Get ready to rock the boat! With guitars blazing and drums hammering, rock music at Out of Time hits all the right notes. From headbanging riffs to soulful solos, it's a feast for your ears that’ll leave you on cloud nine.",
+  "genre1.img": "assets/images/en/music_genre1.jpg",
+
+  "genre2.name": "Pop",
+  "genre2.desc": "Pop music is the cherry on top of our festival sundae. Catchy hooks and toe-tapping beats will have you dancing like nobody’s watching. Don't be surprised if you end up singing in the rain!",
+  "genre2.img": "assets/images/en/music_genre2.jpg",
+
+  "genre3.name": "Oldies",
+  "genre3.desc": "Golden hits from yesteryears that never get old! Our oldies lineup is like a blast from the past, perfect for reliving memories and making new ones. A true time-travel experience—music with a heart of gold.",
+  "genre3.img": "assets/images/en/music_genre3.jpg",
+
+  "contact.title": "Get in Touch",
+  "contact.text": "Questions, suggestions, or joining info? We’d love to hear from you!",
+  "contact.nameLabel": "Your Name",
+  "contact.emailLabel": "Email Address",
+  "contact.messageLabel": "Message",
+  "contact.name": "John Doe",
+  "contact.email": "you@example.com",
+  "contact.message": "Type your message here...",
+  "contact.cta": "Send Message",
+  "contact.follow": "Follow Us",
+
+  "about.title": "Out of Time Festival - About",
+  
+  "about.heroTitle": "About Out of Time Festival",
+  "about.heroDesc": "Where music transcends hours and every beat takes you on a journey beyond time.",
+
+  "about.storyTitle": "Our Story",
+  "about.storyText": "Founded in 2021, Out of Time Festival celebrates music in all its forms, bringing together fans, artists, and unforgettable vibes. From electrifying rock to smooth pop and classic oldies, every stage offers a unique experience.",
+
+  "about.missionTitle": "Our Mission",
+  "about.missionText": "Our mission is to create a festival where time feels suspended and music speaks louder than words. We aim to unite communities, ignite creativity, and make memories that resonate long after the last note fades.",
+
+  "about.highlightsTitle": "Festival Highlights",
+  "about.fact1": "3 stages with over 10 international bands",
+  "about.fact2": "Workshops and jam sessions for music lovers",
+  "about.fact3": "Food trucks, art installations, and immersive experiences",
+  "about.fact4": "Eco-friendly practices and sustainable festival design"
+}
